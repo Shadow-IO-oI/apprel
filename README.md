@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [O_o](https://github.com/Shadow-IO-oI/apparel)
-- Live Site URL: [^_^]()
+- Solution URL: [O_o](https://github.com/Shadow-IO-oI/apprel)
+- Live Site URL: [^_^](https://apprel.vercel.app)
 
 ## My process
 
